@@ -17,6 +17,12 @@ export default [
     url: "https://twistapp.com/",
     logoUrl: "/static/img/sponsors/twistapp.png",
   },
+  
+   {
+    name: "InVision Studio",
+    url: "https://www.invisionapp.com/studio ",
+    logoUrl: "/static/img/sponsors/invision_studio.png",
+  },
 
   {
     name: "Sky Silk",
